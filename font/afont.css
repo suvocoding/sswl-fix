@@ -1,0 +1,44 @@
+   @font-face {
+    font-family: 'BrandonGrotesque-Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('BrandonGrotesque-Regular'), url('BrandonGrotesque-Regular.woff') format('woff');
+    }
+	
+	   @font-face {
+    font-family: 'Brandon Grot W01 Light';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Brandon Grot W01 Light'), url('Brandon%20Grot%20W01%20Light.woff') format('woff');
+    }
+	
+		
+	   @font-face {
+    font-family: 'DIN Next W01 Light';
+    font-style: normal;
+    font-weight: normal;
+    src: local('DIN Next W01 Light'), url('DIN%20Next%20W01%20Light.woff') format('woff');
+    }
+	
+	
+		   @font-face {
+    font-family: 'AvenirLT-Light';
+    font-style: normal;
+    font-weight: normal;
+    src: local('AvenirLT-Light'), url('AvenirLT-Light.woff') format('woff');
+    }
+	
+	
+			   @font-face {
+    font-family: 'AvenirMedium';
+    font-style: normal;
+    font-weight: normal;
+    src: local('AvenirMedium'), url('AvenirMedium.woff') format('woff');
+    }
+	
+			   @font-face {
+    font-family: 'JosefinSans-SemiBold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('JosefinSans-SemiBold'), url('JosefinSans-SemiBold.woff') format('woff');
+    }
